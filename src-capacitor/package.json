@@ -1,0 +1,20 @@
+{
+  "name": "quasar-project",
+  "version": "0.0.1",
+  "description": "Local Community Based Streaming App",
+  "author": "Wesley Bond",
+  "private": true,
+  "dependencies": {
+    "@capacitor-firebase/app": "^6.1.0",
+    "@capacitor-firebase/authentication": "^6.1.0",
+    "@capacitor-firebase/firestore": "^6.1.0",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/geolocation": "^6.0.1",
+    "@capacitor/app": "^6.0.0",
+    "@capacitor/cli": "^6.0.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/ios": "^6.1.2",
+    "firebase": "^10.9.0",
+    "simple-peer": "^9.11.1"
+  }
+}

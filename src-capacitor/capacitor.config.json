@@ -1,0 +1,12 @@
+{
+  "appId": "com.nearstreamer.app",
+  "appName": "NearStream",
+  "webDir": "www",
+  "FirebaseAuthentication": {
+    "skipNativeAuth": false,
+    "providers": [
+      "apple.com",
+      "google.com"
+    ]
+  }
+}
